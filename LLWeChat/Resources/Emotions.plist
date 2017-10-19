@@ -11,606 +11,149 @@
 		<string>EmotionsEmojiHL</string>
 		<key>items</key>
 		<array>
-			<dict>
-				<key>text</key>
-				<string>微笑</string>
-				<key>image</key>
-				<string>Expression_1</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>撇嘴</string>
-				<key>image</key>
-				<string>Expression_2</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>色</string>
-				<key>image</key>
-				<string>Expression_3</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>发呆</string>
-				<key>image</key>
-				<string>Expression_4</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>得意</string>
-				<key>image</key>
-				<string>Expression_5</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>流泪</string>
-				<key>image</key>
-				<string>Expression_6</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>害羞</string>
-				<key>image</key>
-				<string>Expression_7</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>闭嘴</string>
-				<key>image</key>
-				<string>Expression_8</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>睡</string>
-				<key>image</key>
-				<string>Expression_9</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>大哭</string>
-				<key>image</key>
-				<string>Expression_10</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>尴尬</string>
-				<key>image</key>
-				<string>Expression_11</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>发怒</string>
-				<key>image</key>
-				<string>Expression_12</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>调皮</string>
-				<key>image</key>
-				<string>Expression_13</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>呲牙</string>
-				<key>image</key>
-				<string>Expression_14</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>惊讶</string>
-				<key>image</key>
-				<string>Expression_15</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>难过</string>
-				<key>image</key>
-				<string>Expression_16</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>酷</string>
-				<key>image</key>
-				<string>Expression_17</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>冷汗</string>
-				<key>image</key>
-				<string>Expression_18</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>抓狂</string>
-				<key>image</key>
-				<string>Expression_19</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>吐</string>
-				<key>image</key>
-				<string>Expression_20</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>偷笑</string>
-				<key>image</key>
-				<string>Expression_21</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>愉快</string>
-				<key>image</key>
-				<string>Expression_22</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>白眼</string>
-				<key>image</key>
-				<string>Expression_23</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>傲慢</string>
-				<key>image</key>
-				<string>Expression_24</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>饥饿</string>
-				<key>image</key>
-				<string>Expression_25</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>困</string>
-				<key>image</key>
-				<string>Expression_26</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>惊恐</string>
-				<key>image</key>
-				<string>Expression_27</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>流汗</string>
-				<key>image</key>
-				<string>Expression_28</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>憨笑</string>
-				<key>image</key>
-				<string>Expression_29</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>悠闲</string>
-				<key>image</key>
-				<string>Expression_30</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>奋斗</string>
-				<key>image</key>
-				<string>Expression_31</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>咒骂</string>
-				<key>image</key>
-				<string>Expression_32</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>疑问</string>
-				<key>image</key>
-				<string>Expression_33</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>嘘</string>
-				<key>image</key>
-				<string>Expression_34</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>晕</string>
-				<key>image</key>
-				<string>Expression_35</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>疯了</string>
-				<key>image</key>
-				<string>Expression_36</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>衰</string>
-				<key>image</key>
-				<string>Expression_37</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>骷髅</string>
-				<key>image</key>
-				<string>Expression_38</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>敲打</string>
-				<key>image</key>
-				<string>Expression_39</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>再见</string>
-				<key>image</key>
-				<string>Expression_40</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>擦汗</string>
-				<key>image</key>
-				<string>Expression_41</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>抠鼻</string>
-				<key>image</key>
-				<string>Expression_42</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>鼓掌</string>
-				<key>image</key>
-				<string>Expression_43</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>糗大了</string>
-				<key>image</key>
-				<string>Expression_44</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>坏笑</string>
-				<key>image</key>
-				<string>Expression_45</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>左哼哼</string>
-				<key>image</key>
-				<string>Expression_46</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>右哼哼</string>
-				<key>image</key>
-				<string>Expression_47</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>哈欠</string>
-				<key>image</key>
-				<string>Expression_48</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>鄙视</string>
-				<key>image</key>
-				<string>Expression_49</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>委屈</string>
-				<key>image</key>
-				<string>Expression_50</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>快哭了</string>
-				<key>image</key>
-				<string>Expression_51</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>阴险</string>
-				<key>image</key>
-				<string>Expression_52</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>亲亲</string>
-				<key>image</key>
-				<string>Expression_53</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>吓</string>
-				<key>image</key>
-				<string>Expression_54</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>可怜</string>
-				<key>image</key>
-				<string>Expression_55</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>菜刀</string>
-				<key>image</key>
-				<string>Expression_56</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>西瓜</string>
-				<key>image</key>
-				<string>Expression_57</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>啤酒</string>
-				<key>image</key>
-				<string>Expression_58</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>篮球</string>
-				<key>image</key>
-				<string>Expression_59</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>乒乓</string>
-				<key>image</key>
-				<string>Expression_60</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>咖啡</string>
-				<key>image</key>
-				<string>Expression_61</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>饭</string>
-				<key>image</key>
-				<string>Expression_62</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>猪头</string>
-				<key>image</key>
-				<string>Expression_63</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>玫瑰</string>
-				<key>image</key>
-				<string>Expression_64</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>凋谢</string>
-				<key>image</key>
-				<string>Expression_65</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>嘴唇</string>
-				<key>image</key>
-				<string>Expression_66</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>爱心</string>
-				<key>image</key>
-				<string>Expression_67</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>心碎</string>
-				<key>image</key>
-				<string>Expression_68</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>蛋糕</string>
-				<key>image</key>
-				<string>Expression_69</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>闪电</string>
-				<key>image</key>
-				<string>Expression_70</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>炸弹</string>
-				<key>image</key>
-				<string>Expression_71</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>刀</string>
-				<key>image</key>
-				<string>Expression_72</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>足球</string>
-				<key>image</key>
-				<string>Expression_73</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>瓢虫</string>
-				<key>image</key>
-				<string>Expression_74</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>便便</string>
-				<key>image</key>
-				<string>Expression_75</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>月亮</string>
-				<key>image</key>
-				<string>Expression_76</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>太阳</string>
-				<key>image</key>
-				<string>Expression_77</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>礼物</string>
-				<key>image</key>
-				<string>Expression_78</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>拥抱</string>
-				<key>image</key>
-				<string>Expression_79</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>强</string>
-				<key>image</key>
-				<string>Expression_80</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>弱</string>
-				<key>image</key>
-				<string>Expression_81</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>握手</string>
-				<key>image</key>
-				<string>Expression_82</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>胜利</string>
-				<key>image</key>
-				<string>Expression_83</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>抱拳</string>
-				<key>image</key>
-				<string>Expression_84</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>勾引</string>
-				<key>image</key>
-				<string>Expression_85</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>拳头</string>
-				<key>image</key>
-				<string>Expression_86</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>差劲</string>
-				<key>image</key>
-				<string>Expression_87</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>爱你</string>
-				<key>image</key>
-				<string>Expression_88</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>NO</string>
-				<key>image</key>
-				<string>Expression_89</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>OK</string>
-				<key>image</key>
-				<string>Expression_90</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>爱情</string>
-				<key>image</key>
-				<string>Expression_91</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>飞吻</string>
-				<key>image</key>
-				<string>Expression_92</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>跳跳</string>
-				<key>image</key>
-				<string>Expression_93</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>发抖</string>
-				<key>image</key>
-				<string>Expression_94</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>怄火</string>
-				<key>image</key>
-				<string>Expression_95</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>转圈</string>
-				<key>image</key>
-				<string>Expression_96</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>磕头</string>
-				<key>image</key>
-				<string>Expression_97</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>回头</string>
-				<key>image</key>
-				<string>Expression_98</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>跳绳</string>
-				<key>image</key>
-				<string>Expression_99</string>
-			</dict>
-			<dict>
-				<key>text</key>
-				<string>投降</string>
-				<key>image</key>
-				<string>Expression_100</string>
-			</dict>
+			<dict><key>text</key><string>NO</string><key>image</key><string>NO</string></dict>
+<dict><key>text</key><string>OK</string><key>image</key><string>OK</string></dict>
+<dict><key>text</key><string>刀</string><key>image</key><string>刀</string></dict>
+<dict><key>text</key><string>吐</string><key>image</key><string>吐</string></dict>
+<dict><key>text</key><string>吓</string><key>image</key><string>吓</string></dict>
+<dict><key>text</key><string>嘘</string><key>image</key><string>嘘</string></dict>
+<dict><key>text</key><string>困</string><key>image</key><string>困</string></dict>
+<dict><key>text</key><string>弱</string><key>image</key><string>弱</string></dict>
+<dict><key>text</key><string>强</string><key>image</key><string>强</string></dict>
+<dict><key>text</key><string>怒</string><key>image</key><string>怒</string></dict>
+<dict><key>text</key><string>晕</string><key>image</key><string>晕</string></dict>
+<dict><key>text</key><string>色</string><key>image</key><string>色</string></dict>
+<dict><key>text</key><string>药</string><key>image</key><string>药</string></dict>
+<dict><key>text</key><string>衰</string><key>image</key><string>衰</string></dict>
+<dict><key>text</key><string>酷</string><key>image</key><string>酷</string></dict>
+<dict><key>text</key><string>下雨</string><key>image</key><string>下雨</string></dict>
+<dict><key>text</key><string>乒乓</string><key>image</key><string>乒乓</string></dict>
+<dict><key>text</key><string>便便</string><key>image</key><string>便便</string></dict>
+<dict><key>text</key><string>信封</string><key>image</key><string>信封</string></dict>
+<dict><key>text</key><string>偷笑</string><key>image</key><string>偷笑</string></dict>
+<dict><key>text</key><string>傲慢</string><key>image</key><string>傲慢</string></dict>
+<dict><key>text</key><string>再见</string><key>image</key><string>再见</string></dict>
+<dict><key>text</key><string>冷汗</string><key>image</key><string>冷汗</string></dict>
+<dict><key>text</key><string>凋谢</string><key>image</key><string>凋谢</string></dict>
+<dict><key>text</key><string>删除</string><key>image</key><string>删除</string></dict>
+<dict><key>text</key><string>勾引</string><key>image</key><string>勾引</string></dict>
+<dict><key>text</key><string>发呆</string><key>image</key><string>发呆</string></dict>
+<dict><key>text</key><string>发抖</string><key>image</key><string>发抖</string></dict>
+<dict><key>text</key><string>可怜</string><key>image</key><string>可怜</string></dict>
+<dict><key>text</key><string>可爱</string><key>image</key><string>可爱</string></dict>
+<dict><key>text</key><string>咒骂</string><key>image</key><string>咒骂</string></dict>
+<dict><key>text</key><string>咖啡</string><key>image</key><string>咖啡</string></dict>
+<dict><key>text</key><string>啤酒</string><key>image</key><string>啤酒</string></dict>
+<dict><key>text</key><string>回头</string><key>image</key><string>回头</string></dict>
+<dict><key>text</key><string>坏笑</string><key>image</key><string>坏笑</string></dict>
+<dict><key>text</key><string>多云</string><key>image</key><string>多云</string></dict>
+<dict><key>text</key><string>大兵</string><key>image</key><string>大兵</string></dict>
+<dict><key>text</key><string>大哭</string><key>image</key><string>大哭</string></dict>
+<dict><key>text</key><string>太阳</string><key>image</key><string>太阳</string></dict>
+<dict><key>text</key><string>奋斗</string><key>image</key><string>奋斗</string></dict>
+<dict><key>text</key><string>奶瓶</string><key>image</key><string>奶瓶</string></dict>
+<dict><key>text</key><string>委屈</string><key>image</key><string>委屈</string></dict>
+<dict><key>text</key><string>害羞</string><key>image</key><string>害羞</string></dict>
+<dict><key>text</key><string>尴尬</string><key>image</key><string>尴尬</string></dict>
+<dict><key>text</key><string>差劲</string><key>image</key><string>差劲</string></dict>
+<dict><key>text</key><string>彩带</string><key>image</key><string>彩带</string></dict>
+<dict><key>text</key><string>彩球</string><key>image</key><string>彩球</string></dict>
+<dict><key>text</key><string>得意</string><key>image</key><string>得意</string></dict>
+<dict><key>text</key><string>微笑</string><key>image</key><string>微笑</string></dict>
+<dict><key>text</key><string>怄火</string><key>image</key><string>怄火</string></dict>
+<dict><key>text</key><string>惊恐</string><key>image</key><string>惊恐</string></dict>
+<dict><key>text</key><string>惊讶</string><key>image</key><string>惊讶</string></dict>
+<dict><key>text</key><string>憨笑</string><key>image</key><string>憨笑</string></dict>
+<dict><key>text</key><string>手枪</string><key>image</key><string>手枪</string></dict>
+<dict><key>text</key><string>抓狂</string><key>image</key><string>抓狂</string></dict>
+<dict><key>text</key><string>折磨</string><key>image</key><string>折磨</string></dict>
+<dict><key>text</key><string>抠鼻</string><key>image</key><string>抠鼻</string></dict>
+<dict><key>text</key><string>抱抱</string><key>image</key><string>抱抱</string></dict>
+<dict><key>text</key><string>抱拳</string><key>image</key><string>抱拳</string></dict>
+<dict><key>text</key><string>拳头</string><key>image</key><string>拳头</string></dict>
+<dict><key>text</key><string>挥手</string><key>image</key><string>挥手</string></dict>
+<dict><key>text</key><string>握手</string><key>image</key><string>握手</string></dict>
+<dict><key>text</key><string>撇嘴</string><key>image</key><string>撇嘴</string></dict>
+<dict><key>text</key><string>擦汗</string><key>image</key><string>擦汗</string></dict>
+<dict><key>text</key><string>敲打</string><key>image</key><string>敲打</string></dict>
+<dict><key>text</key><string>月亮</string><key>image</key><string>月亮</string></dict>
+<dict><key>text</key><string>汽车</string><key>image</key><string>汽车</string></dict>
+<dict><key>text</key><string>沙发</string><key>image</key><string>沙发</string></dict>
+<dict><key>text</key><string>流汗</string><key>image</key><string>流汗</string></dict>
+<dict><key>text</key><string>流泪</string><key>image</key><string>流泪</string></dict>
+<dict><key>text</key><string>激动</string><key>image</key><string>激动</string></dict>
+<dict><key>text</key><string>灯泡</string><key>image</key><string>灯泡</string></dict>
+<dict><key>text</key><string>炸弹</string><key>image</key><string>炸弹</string></dict>
+<dict><key>text</key><string>熊猫</string><key>image</key><string>熊猫</string></dict>
+<dict><key>text</key><string>爆筋</string><key>image</key><string>爆筋</string></dict>
+<dict><key>text</key><string>爱你</string><key>image</key><string>爱你</string></dict>
+<dict><key>text</key><string>爱心</string><key>image</key><string>爱心</string></dict>
+<dict><key>text</key><string>爱情</string><key>image</key><string>爱情</string></dict>
+<dict><key>text</key><string>猪头</string><key>image</key><string>猪头</string></dict>
+<dict><key>text</key><string>猫咪</string><key>image</key><string>猫咪</string></dict>
+<dict><key>text</key><string>献吻</string><key>image</key><string>献吻</string></dict>
+<dict><key>text</key><string>玫瑰</string><key>image</key><string>玫瑰</string></dict>
+<dict><key>text</key><string>瓢虫</string><key>image</key><string>瓢虫</string></dict>
+<dict><key>text</key><string>疑问</string><key>image</key><string>疑问</string></dict>
+<dict><key>text</key><string>白眼</string><key>image</key><string>白眼</string></dict>
+<dict><key>text</key><string>皮球</string><key>image</key><string>皮球</string></dict>
+<dict><key>text</key><string>睡觉</string><key>image</key><string>睡觉</string></dict>
+<dict><key>text</key><string>磕头</string><key>image</key><string>磕头</string></dict>
+<dict><key>text</key><string>示爱</string><key>image</key><string>示爱</string></dict>
+<dict><key>text</key><string>礼物</string><key>image</key><string>礼物</string></dict>
+<dict><key>text</key><string>篮球</string><key>image</key><string>篮球</string></dict>
+<dict><key>text</key><string>米饭</string><key>image</key><string>米饭</string></dict>
+<dict><key>text</key><string>纸巾</string><key>image</key><string>纸巾</string></dict>
+<dict><key>text</key><string>胜利</string><key>image</key><string>胜利</string></dict>
+<dict><key>text</key><string>菜刀</string><key>image</key><string>菜刀</string></dict>
+<dict><key>text</key><string>蛋糕</string><key>image</key><string>蛋糕</string></dict>
+<dict><key>text</key><string>蜡烛</string><key>image</key><string>蜡烛</string></dict>
+<dict><key>text</key><string>街舞</string><key>image</key><string>街舞</string></dict>
+<dict><key>text</key><string>西瓜</string><key>image</key><string>西瓜</string></dict>
+<dict><key>text</key><string>调皮</string><key>image</key><string>调皮</string></dict>
+<dict><key>text</key><string>象棋</string><key>image</key><string>象棋</string></dict>
+<dict><key>text</key><string>跳绳</string><key>image</key><string>跳绳</string></dict>
+<dict><key>text</key><string>跳跳</string><key>image</key><string>跳跳</string></dict>
+<dict><key>text</key><string>车厢</string><key>image</key><string>车厢</string></dict>
+<dict><key>text</key><string>转圈</string><key>image</key><string>转圈</string></dict>
+<dict><key>text</key><string>鄙视</string><key>image</key><string>鄙视</string></dict>
+<dict><key>text</key><string>钞票</string><key>image</key><string>钞票</string></dict>
+<dict><key>text</key><string>钻戒</string><key>image</key><string>钻戒</string></dict>
+<dict><key>text</key><string>闪电</string><key>image</key><string>闪电</string></dict>
+<dict><key>text</key><string>闭嘴</string><key>image</key><string>闭嘴</string></dict>
+<dict><key>text</key><string>闹钟</string><key>image</key><string>闹钟</string></dict>
+<dict><key>text</key><string>阴险</string><key>image</key><string>阴险</string></dict>
+<dict><key>text</key><string>难过</string><key>image</key><string>难过</string></dict>
+<dict><key>text</key><string>雨伞</string><key>image</key><string>雨伞</string></dict>
+<dict><key>text</key><string>青蛙</string><key>image</key><string>青蛙</string></dict>
+<dict><key>text</key><string>面条</string><key>image</key><string>面条</string></dict>
+<dict><key>text</key><string>鞭炮</string><key>image</key><string>鞭炮</string></dict>
+<dict><key>text</key><string>风车</string><key>image</key><string>风车</string></dict>
+<dict><key>text</key><string>飞吻</string><key>image</key><string>飞吻</string></dict>
+<dict><key>text</key><string>飞机</string><key>image</key><string>飞机</string></dict>
+<dict><key>text</key><string>饥饿</string><key>image</key><string>饥饿</string></dict>
+<dict><key>text</key><string>香蕉</string><key>image</key><string>香蕉</string></dict>
+<dict><key>text</key><string>骷髅</string><key>image</key><string>骷髅</string></dict>
+<dict><key>text</key><string>麻将</string><key>image</key><string>麻将</string></dict>
+<dict><key>text</key><string>鼓掌</string><key>image</key><string>鼓掌</string></dict>
+<dict><key>text</key><string>龇牙</string><key>image</key><string>龇牙</string></dict>
+<dict><key>text</key><string>么么哒</string><key>image</key><string>么么哒</string></dict>
+<dict><key>text</key><string>右哼哼</string><key>image</key><string>右哼哼</string></dict>
+<dict><key>text</key><string>右太极</string><key>image</key><string>右太极</string></dict>
+<dict><key>text</key><string>右车头</string><key>image</key><string>右车头</string></dict>
+<dict><key>text</key><string>左哼哼</string><key>image</key><string>左哼哼</string></dict>
+<dict><key>text</key><string>左太极</string><key>image</key><string>左太极</string></dict>
+<dict><key>text</key><string>左车头</string><key>image</key><string>左车头</string></dict>
+<dict><key>text</key><string>心碎了</string><key>image</key><string>心碎了</string></dict>
+<dict><key>text</key><string>快哭了</string><key>image</key><string>快哭了</string></dict>
+<dict><key>text</key><string>打哈欠</string><key>image</key><string>打哈欠</string></dict>
+<dict><key>text</key><string>棒棒糖</string><key>image</key><string>棒棒糖</string></dict>
+<dict><key>text</key><string>礼品袋</string><key>image</key><string>礼品袋</string></dict>
+<dict><key>text</key><string>糗大了</string><key>image</key><string>糗大了</string></dict>
+<dict><key>text</key><string>红双喜</string><key>image</key><string>红双喜</string></dict>
+<dict><key>text</key><string>红灯笼</string><key>image</key><string>红灯笼</string></dict>
+<dict><key>text</key><string>麦克风</string><key>image</key><string>麦克风</string></dict>
+			
 		</array>
 	</dict>
 	<dict>

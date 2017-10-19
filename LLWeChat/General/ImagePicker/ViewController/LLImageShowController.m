@@ -75,16 +75,23 @@
 
 - (void)setupNavigationBar {
     self.view.backgroundColor = [UIColor blackColor];
-    CGRect frame = self.navigationController.navigationBar.subviews[0].frame;
+//    CGRect frame = self.navigationController.navigationBar.subviews[0].frame;
+//    frame.size.height = 64;
+//
+//    self.navigationController.navigationBar.frame = frame;
+    
+    CGRect frame = self.navigationController.navigationBar.frame;
     frame.size.height = 64;
+
     self.navigationController.navigationBar.frame = frame;
+
     
     UIBarButtonItem *spaceItem = [[UIBarButtonItem alloc] initWithBarButtonSystemItem:UIBarButtonSystemItemFixedSpace target:nil action:nil];
     spaceItem.width = -8;
     
     UIBarButtonItem *leftItem = [[UIBarButtonItem alloc] initWithImage:[UIImage imageNamed:@"FriendsSendsPicturesQuitBigIcon"] style:UIBarButtonItemStylePlain target:self action:@selector(doBack:)];
     [leftItem setTitlePositionAdjustment:UIOffsetMake(20, 0) forBarMetrics:UIBarMetricsDefault];
-    [leftItem setBackgroundVerticalPositionAdjustment:-8 forBarMetrics:UIBarMetricsDefault];
+   // [leftItem setBackgroundVerticalPositionAdjustment:-28 forBarMetrics:UIBarMetricsDefault];
     self.navigationItem.leftBarButtonItems = @[spaceItem, leftItem];
     
     _bigSelectView = [[LLImageSelectIndicator alloc] init];

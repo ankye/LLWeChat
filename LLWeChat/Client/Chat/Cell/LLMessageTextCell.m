@@ -12,6 +12,7 @@
 #import "UIKit+LLExt.h"
 #import "LLSimpleTextLabel.h"
 #import "LLUserProfile.h"
+#import <Masonry/Masonry.h>
 
 
 //Label的约束
@@ -88,7 +89,10 @@ static CGFloat preferredMaxTextWidth;
         };
         
         [self.contentView addSubview:self.contentLabel];
-        
+        [self.contentLabel mas_makeConstraints:^(MASConstraintMaker *make) {
+        make.edges.equalTo(self.bubbleImage).with.insets(UIEdgeInsetsMake(LABEL_BUBBLE_TOP+BUBBLE_TOP_BLANK, LABEL_BUBBLE_LEFT+BUBBLE_LEFT_BLANK, LABEL_BUBBLE_BOTTOM, LABEL_BUBBLE_RIGHT+BUBBLE_RIGHT_BLANK));
+            
+        }];
         doubleTap = [[UITapGestureRecognizer alloc] initWithTarget:self action:@selector(contentDoubleTapped:)];
         doubleTap.delegate = self;
         doubleTap.numberOfTapsRequired = 2;
@@ -136,18 +140,14 @@ static CGFloat preferredMaxTextWidth;
         frame.origin.x = CGRectGetMinX(self.avatarImage.frame) - CGRectGetWidth(frame) - CONTENT_AVATAR_MARGIN;
         self.bubbleImage.frame = frame;
 
-        self.contentLabel.frame = CGRectMake(CGRectGetMinX(self.bubbleImage.frame) + LABEL_BUBBLE_RIGHT + BUBBLE_LEFT_BLANK,
-                    CGRectGetMinY(self.bubbleImage.frame) + LABEL_BUBBLE_TOP + BUBBLE_TOP_BLANK,
-                                             textSize.width, textSize.height);
+
 
     }else {
         self.bubbleImage.frame = CGRectMake(CONTENT_AVATAR_MARGIN + CGRectGetMaxX(self.avatarImage.frame),
                     CONTENT_SUPER_TOP - BUBBLE_TOP_BLANK, size.width + BUBBLE_LEFT_BLANK + BUBBLE_RIGHT_BLANK, size.height +
                     BUBBLE_TOP_BLANK + BUBBLE_BOTTOM_BLANK);
         
-        self.contentLabel.frame = CGRectMake(CGRectGetMinX(self.bubbleImage.frame) + LABEL_BUBBLE_LEFT + BUBBLE_LEFT_BLANK,
-                    CGRectGetMinY(self.bubbleImage.frame) + LABEL_BUBBLE_TOP + BUBBLE_TOP_BLANK,
-                                             textSize.width, textSize.height);
+
     }
     
 }

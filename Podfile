@@ -7,4 +7,5 @@ inhibit_all_warnings!
 
 target 'LLWeChat' do
 
+pod 'Masonry'
 end
